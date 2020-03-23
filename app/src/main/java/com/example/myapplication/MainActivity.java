@@ -60,13 +60,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
-
-
-
-
-
-
         EditText editText2 = (EditText) findViewById(R.id.editText2);
         editText2.setOnEditorActionListener(new TextView.OnEditorActionListener() {
             @Override
